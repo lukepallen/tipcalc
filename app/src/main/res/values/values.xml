@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_label">Amount</string>
+    <string name="btn_text">Tip</string>
+    <string name="input_hint">Enter the surcharge amount</string>
+</resources>
